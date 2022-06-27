@@ -1,74 +1,84 @@
 {
-    "broadArea": {
-        "name": "Mechanical Engineering",
-        "link": "https://www.vlab.co.in/broad-area-mechanical-engineering"
-    },
-    "lab": "Virtual FAB Laboratory",
-    "lab_display_name": "FAB Lab",
-    "deployLab": true,
-    "phase": 2,
-    "collegeName": "coep",
-    "baseUrl": "https://fab-coep.vlabs.ac.in",
-    "introduction": "In Engineering various activities to strengthen the visual ability are performed. These activities are mainly essential for concept clarity, better visualization, and design capability.</br></br>In this lab main focus is on creating various objects using basic tools. The carpentry, smithy, machining, and creating various shapes are demonstrated using graphical tool. The library functions are prepared so as to make this lab configurable and expandable. The integration of various activities will play a major role while using this laboratory.",
-    "experiments": [
-        {
+  "broadArea": {
+    "name": "Mechanical Engineering",
+    "link": "https://www.vlab.co.in/broad-area-mechanical-engineering"
+  },
+  "lab": "Virtual FAB Laboratory",
+  "lab_display_name": "FAB Lab",
+  "deployLab": true,
+  "phase": 2,
+  "collegeName": "coep",
+  "baseUrl": "fab-coep.vlabs.ac.in",
+  "introduction": "In Engineering various activities to strengthen the visual ability are performed. These activities are mainly essential for concept clarity, better visualization, and design capability.</br></br>In this lab main focus is on creating various objects using basic tools. The carpentry, smithy, machining, and creating various shapes are demonstrated using graphical tool. The library functions are prepared so as to make this lab configurable and expandable. The integration of various activities will play a major role while using this laboratory.",
+  "experiments": [
+    {
       "name": "Computer Controlled Cutting of wooden object",
       "short-name": "computer-controlled-cutting",
       "repo": "https://github.com/virtual-labs/exp-computer-controlled-cutting-coep",
       "tag": "v1.0.0",
       "deploy": true
-        },
-        {
+    },
+    {
       "name": "3D Machining",
       "short-name": "3d-machining",
       "repo": "https://github.com/virtual-labs/exp-3d-machining-coep",
       "tag": "v1.0.0",
       "deploy": true
-        },
-        {
+    },
+    {
       "name": "PCB design & fabrication",
       "short-name": "pcb-design-fabrication",
       "repo": "https://github.com/virtual-labs/exp-pcb-design-fabrication-coep",
       "tag": "v1.0.0",
       "deploy": true
-        },
-        {
+    },
+    {
       "name": "Digital Fabrication of Flexible Circuit board",
       "short-name": "digital-fabrication",
       "repo": "https://github.com/virtual-labs/exp-digital-fabrication-coep",
       "tag": "v1.0.0",
       "deploy": true
-        },
-        {
+    },
+    {
       "name": "3D scanning",
       "short-name": "3d-scanning",
       "repo": "https://github.com/virtual-labs/exp-3d-scanning-coep",
       "tag": "v1.0.0",
       "deploy": true
-        },
-        {
+    },
+    {
       "name": "Molding and Casting of Polyurethane parts",
       "short-name": "molding-casting-polyurethane-parts",
       "repo": "https://github.com/virtual-labs/exp-molding-casting-polyurethane-parts-coep",
       "tag": "v1.0.0",
       "deploy": true
-        },
-        {
+    },
+    {
       "name": "Digital Fabrication and Project Development",
       "short-name": "digital-fabrication-project-development",
       "repo": "https://github.com/virtual-labs/exp-digital-fabrication-project-development-coep",
       "tag": "v1.0.0",
       "deploy": true
-        }
-    
-    ],
-    "targetAudience": {
-        "UG": ["Undergraduate students of Mechanical Engineering, Mechatronics Engineering."],
-        "PG": ["Post-graduate students of Process Mechanical Engineering."]
-    },
-    "objective": "- To understand the concept of carpentry and machining objects </br>- To strength the visual ability </br>- To get better visualization and design capability",
-    "courseAlignment": {
-        "description": "The syllabi of this lab aligns to the following universities in India.",
-        "universities": ["Pune University","Indian Institute of Technology Bombay","Indian Institute of Technology Delhi","BMS College of Engineering, Bangalore","Institute has a Mechanical Engineering"]
     }
+  ],
+  "targetAudience": {
+    "UG": [
+      "Undergraduate students of Mechanical Engineering, Mechatronics Engineering."
+    ],
+    "PG": ["Post-graduate students of Process Mechanical Engineering."]
+  },
+  "objective": "- To understand the concept of carpentry and machining objects </br>- To strength the visual ability </br>- To get better visualization and design capability",
+  "courseAlignment": {
+    "description": "The syllabi of this lab aligns to the following universities in India.",
+    "universities": [
+      "Pune University",
+      "Indian Institute of Technology Bombay",
+      "Indian Institute of Technology Delhi",
+      "BMS College of Engineering, Bangalore",
+      "Institute has a Mechanical Engineering"
+    ]
+  },
+  "exp_name": "Digital Fabrication and Project Development",
+  "exp_short_name": "digital-fabrication-project-development",
+  "version": "v0.1.0"
 }
