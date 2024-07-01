@@ -1,13 +1,14 @@
 {
   "broadArea": {
     "name": "Mechanical Engineering",
-    "link": "https://www.vlab.co.in/broad-area-mechanical-engineering"
+    "link": "https://www.vlab.co.in/broad-area-mechanical-engineering",
+    "code": "MECH"
   },
   "lab": "Virtual FAB Laboratory",
   "lab_display_name": "FAB Lab",
   "deployLab": true,
   "phase": 2,
-  "collegeName": "coep",
+  "collegeName": "COEP",
   "baseUrl": "fab-coep.vlabs.ac.in",
   "introduction": "In Engineering various activities to strengthen the visual ability are performed. These activities are mainly essential for concept clarity, better visualization, and design capability.</br></br>In this lab main focus is on creating various objects using basic tools. The carpentry, smithy, machining, and creating various shapes are demonstrated using graphical tool. The library functions are prepared so as to make this lab configurable and expandable. The integration of various activities will play a major role while using this laboratory.",
   "experiments": [
@@ -77,8 +78,5 @@
       "BMS College of Engineering, Bangalore",
       "Institute has a Mechanical Engineering"
     ]
-  },
-  "exp_name": "Digital Fabrication and Project Development",
-  "exp_short_name": "digital-fabrication-project-development",
-  "version": "v0.4.0"
+  }
 }
