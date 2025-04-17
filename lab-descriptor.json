@@ -46,20 +46,6 @@
       "repo": "https://github.com/virtual-labs/exp-3d-scanning-coep",
       "tag": "v1.0.0",
       "deploy": true
-    },
-    {
-      "name": "Molding and Casting of Polyurethane parts",
-      "short-name": "molding-casting-polyurethane-parts",
-      "repo": "https://github.com/virtual-labs/exp-molding-casting-polyurethane-parts-coep",
-      "tag": "v1.0.0",
-      "deploy": true
-    },
-    {
-      "name": "Digital Fabrication and Project Development",
-      "short-name": "digital-fabrication-project-development",
-      "repo": "https://github.com/virtual-labs/exp-digital-fabrication-project-development-coep",
-      "tag": "v1.0.0",
-      "deploy": true
     }
   ],
   "targetAudience": {
